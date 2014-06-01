@@ -1,2 +1,4 @@
-monkey-nuts-framework
+Monkey Nuts Framework
 =====================
+
+A Sass front end framework.
